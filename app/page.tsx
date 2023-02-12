@@ -1,4 +1,5 @@
-import { BoltIcon, ExclamationTriangleIcon, SunIcon } from '@heroicons/react/24/outline'
+import { BoltIcon, ExclamationTriangleIcon, SunIcon } from "@heroicons/react/24/outline"
+
  
  const HomePage = () =>{
     return(
